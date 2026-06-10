@@ -2,9 +2,135 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid e71a4f78-d28c-414d-be36-4b871dfeca49)
+	(uuid "e71a4f78-d28c-414d-be36-4b871dfeca49")
 	(paper "A4")
 	(lib_symbols)
+	(sheet
+		(at 106.68 85.09)
+		(size 25.4 20.32)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "5993430e-e5ba-4be8-8f3e-4008ea31d8d7")
+		(property "Sheetname" "Sub Board"
+			(at 106.68 84.3784 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "sub-board.kicad_sch"
+			(at 106.68 105.9946 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(pin "MISO" input
+			(at 132.08 88.9 0)
+			(uuid "678f55c7-73df-4b91-9282-1ad74108e8a7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "MOSI" input
+			(at 132.08 86.36 0)
+			(uuid "99c6d0c6-b526-4027-9a34-22184598ceaa")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RCLK" input
+			(at 132.08 99.06 0)
+			(uuid "f13dd338-8fb0-4b1c-b491-c06521610a75")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "RST" input
+			(at 132.08 93.98 0)
+			(uuid "b1b41f06-5371-42cf-b09d-b5034e6019f6")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SCK" input
+			(at 132.08 91.44 0)
+			(uuid "aa2dee24-d9b7-4a75-97ae-5da20dd4e32e")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SER" input
+			(at 132.08 101.6 0)
+			(uuid "ad875439-91db-4ddf-9189-a54b37145bd7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SER_OUT" input
+			(at 132.08 104.14 0)
+			(uuid "20e8ddd0-44e7-45b7-84c8-3aadda27e726")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "SRCLK" input
+			(at 132.08 96.52 0)
+			(uuid "c9286548-93b4-4971-a89c-fed40a2ab4ee")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "board"
+				(path "/e71a4f78-d28c-414d-be36-4b871dfeca49"
+					(page "2")
+				)
+			)
+		)
+	)
 	(sheet_instances
 		(path "/"
 			(page "1")
