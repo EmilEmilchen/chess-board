@@ -2020,7 +2020,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Horizontal"
 			(at 212.09 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -2434,7 +2434,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Horizontal"
 			(at 241.3 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -2616,7 +2616,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 134.62 83.82 0)
 			(hide yes)
 			(show_name no)
@@ -3093,7 +3093,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x09_P2.54mm_Horizontal"
 			(at 212.09 80.01 0)
 			(hide yes)
 			(show_name no)
@@ -3275,7 +3275,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x09_P2.54mm_Horizontal"
 			(at 241.3 109.22 0)
 			(hide yes)
 			(show_name no)
