@@ -1,0 +1,22 @@
+# KiCad temporary and auto-save files
+*-bak
+*.bak
+*.bck
+*.tmp
+_autosave-*
+*.lck
+
+# User-specific GUI settings (window positions, active layers, etc.)
+# Note: You DO want to track .kicad_pro (project settings), but NOT .kicad_prl
+*.kicad_prl
+
+# Netlist files (these are generated from the schematic)
+*.net
+
+# Routing / Autorouter files (if using FreeRouting)
+*.rules
+*.ses
+
+# Optional: Ignore manufacturing output folders if you auto-generate them
+/Gerbers/
+/Outputs/
